@@ -1,7 +1,7 @@
-baseURL = "https://www.irohaka.com/"
-title = "イロハカの自転車日記"
+baseURL = "https://www.quiethacker.com/"
+title = "quiethacker.com"
 
-languageCode = "ja-jp"
+languageCode = "en-us"
 hasCJKLanguage = true
 theme = "ChoNormal"
 dateFormat = "2006年01月02日"
@@ -10,7 +10,7 @@ disqusShortname = "irohaka"
 [Params]
     author = "IROHAKA"
     images = ["images/featured.jpg"]
-    description ="イロハカの自転車と旅行のブログです。"
+    description ="the quiet hacker's words"
     amazonJpAffiliate = "irohaka-22"
     tags = "自転車, ブログ"
     
