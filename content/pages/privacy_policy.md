@@ -1,7 +1,7 @@
 ---
-title: "当サイトに掲載されている広告について"
+title: "Privacy Policy"
 url: /privacy_policy
-author: irohaka
+author: quiethacker
 ---
 
 ### 当サイトに掲載されている広告について  

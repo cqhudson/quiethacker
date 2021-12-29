@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-author: irohaka
+author: quiethacker
 type: post
 date: {{ .Date }}
 url: /
