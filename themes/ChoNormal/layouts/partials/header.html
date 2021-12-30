@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{if .IsHome}}{{ $.Site.Title }}{{else}}{{.Title}}｜{{ $.Site.Title }}{{end}}</title>
@@ -20,9 +20,15 @@
   {{ partial "opengraph.html" . }}
   {{ partial "twittercard.html" . }}
   {{ template "_internal/schema.html" . }}
-<!--Google AdSense tag-->
-<script data-ad-client="ca-pub-7014159386436390" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+  <!--Google AdSense tag-->
+
+<script data-ad-client="" async src=""></script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
+
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58799-9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -31,6 +37,8 @@
 
   gtag('config', 'UA-58799-9');
 </script>
+
+
 <style>
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "reseter.min.css" .)) | safeCSS }}
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
@@ -46,11 +54,11 @@
 <label for="menu-toggle" class="menu-button"><span></span></label>
 <div class="drawer-menu">
   <ul>
-    <li><a href="{{ .Site.BaseURL }}">TOPページ</a></li>
-    <li><a href="{{ .Site.BaseURL }}about/">about</a></li>
-    <li><a href="{{ .Site.BaseURL }}tags/自転車のはなし/">自転車のはなし</a></li>
-    <li><a href="{{ .Site.BaseURL }}tags/旅行/">旅行のはなし</a></li>
-    <li><a href="{{ .Site.BaseURL }}privacy_policy/">privacy_policy</a></li>
+    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+    <li><a href="{{ .Site.BaseURL }}about/">About</a></li>
+    <!--<li><a href="{{ .Site.BaseURL }}tags/自転車のはなし/">自転車のはなし</a></li>-->
+    <!--<li><a href="{{ .Site.BaseURL }}tags/旅行/">旅行のはなし</a></li>-->
+    <li><a href="{{ .Site.BaseURL }}privacy_policy/">Privacy Policy</a></li>
   </ul>
 </div>
 </div>
