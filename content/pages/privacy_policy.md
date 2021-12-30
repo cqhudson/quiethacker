@@ -4,38 +4,29 @@ url: /privacy_policy
 author: quiethacker
 ---
 
-### 当サイトに掲載されている広告について  
+### About advertisements posted on this site
 
-当サイトでは、第三者配信の広告サービス（Googleアドセンス、Amazonアソシエイト）を利用しています。
-このような広告配信事業者は、ユーザーの興味に応じた商品やサービスの広告を表示するため、当サイトや他サイトへのアクセスに関する情報 『Cookie』(氏名、住所、メール アドレス、電話番号は含まれません) を使用することがあります。  
-またGoogleアドセンスに関して、このプロセスの詳細やこのような情報が広告配信事業者に使用されないようにする方法については、[こちら](https://policies.google.com/technologies/ads?hl=ja)をクリックしてください。  
-　　  
+This site uses third-party advertising services (Google Adsense, Amazon Associate).
+In order to display advertisements for products and services according to the user's interests, such advertisement distributors include information "Cookies" (name, address, email address, telephone number) regarding access to this site and other sites. May not be used).
+Also, regarding Google Adsense, you can read more about this process and how to prevent such information from being used by ad publishers [here] (https://policies.google.com/technologies/ads?hl=ja). )Please click on the.
+It was
 
-### 当サイトが使用しているアクセス解析ツールについて  
-当サイトでは、Googleによるアクセス解析ツール「Google Analytics」を利用しています。
-このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。
-このトラフィックデータは匿名で収集されており、個人を特定するものではありません。
-この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
-この規約に関して、詳しくは[Google アナリティクス利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)、または[こちら](https://policies.google.com/technologies/partner-sites?hl=ja)をクリックしてください。
-　　  
-　  
-### 当サイトへのコメントについて  
-当サイトでは、スパム・荒らしへの対応として、コメントの際に使用されたIPアドレスを記録しています。  
-これはブログの標準機能としてサポートされている機能で、スパム・荒らしへの対応以外にこのIPアドレスを使用することはありません。  
-また、メールアドレスとURLの入力に関しては、任意となっております。  
-全てのコメントは管理人であるイロハカが事前にその内容を確認し、承認した上での掲載となりますことをあらかじめご了承下さい。  
-加えて、次の各号に掲げる内容を含むコメントは管理人の裁量によって承認せず、削除する事があります。  
-　　  
-- ・特定の自然人または法人を誹謗し、中傷するもの。
-- ・極度にわいせつな内容を含むもの。
-- ・禁制品の取引に関するものや、他者を害する行為の依頼など、法律によって禁止されている物品、行為の依頼や斡旋などに関するもの。
-- ・その他、公序良俗に反し、または管理人によって承認すべきでないと認められるもの。
-　　  
-　　  
-　　  
-　　  
-そのほか、お問い合わせは  
-{{< raw >}} 
-<img src="/pages/images/contact.png" alt="連絡先">
-{{< /raw >}}
-まで。
+### About the access analysis tool used by this site
+This site uses the access analysis tool "Google Analytics" by Google.
+This Google Analytics uses cookies to collect traffic data.
+This traffic data is collected anonymously and is not personally identifiable.
+This function can refuse collection by disabling cookies, so please check the settings of your browser.
+For more information on these terms, see [Google Analytics Terms of Service] (https://marketingplatform.google.com/about/analytics/terms/jp/) or [here] (https://policies.google.com/technologies/). Click partner-sites? hl = ja).
+It was
+It was
+### About comments on this site
+This site records the IP address used when commenting as a response to spam and vandalism.
+This is a feature supported as a standard feature of blogs, and we will not use this IP address except for dealing with spam and vandalism.
+In addition, the input of e-mail address and URL is optional.
+Please note that all comments will be posted after the administrator, Irohaka, confirms and approves the contents in advance.
+In addition, comments including the contents listed in the following items may not be approved and may be deleted at the discretion of the administrator.
+It was
+--- Those who slander or slander a specific natural person or corporation.
+-・ Those containing extremely obscene content.
+--- Items that are prohibited by law, such as transactions of prohibited items, requests for acts that harm others, requests for acts, mediation, etc.
+-Other things that are offensive to public order and morals or that should not be approved by the administrator.
