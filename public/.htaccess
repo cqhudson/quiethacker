@@ -3,4 +3,4 @@
 Options +FollowSymLinks
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^irohaka\.com$
-RewriteRule ^(.*)$ http://www.irohaka.com/$1 [R=301,L]
+RewriteRule ^(.*)$ http://www.quiethacker.com/$1 [R=301,L]
