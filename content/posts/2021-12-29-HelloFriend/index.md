@@ -1,7 +1,7 @@
 ---
 title: "Hello, Friend"
 author: quiethacker
-date: 2011-02-28T12:22:00+09:00
+date: 2021-12-29T18:55:00-06:00
 url: /2021-12-29-hellofriend
 type: post
 ---
