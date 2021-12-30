@@ -6,14 +6,14 @@
     <ul id="taglist">
       <li class="tags">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-        <div class="meta">{{ .Date.Format " 2006年01月02日" }}</div>
+        <div class="meta">{{ .Date.Format " 2006-01-02" }}</div>
       </li>
     </ul>
     {{ end }}
     </section>
     <hr class="dark">
     <div class="tag-index">
-      <h3 class="tag">タグ一覧</h3>
+      <h3 class="tag">Taglist</h3>
       <ul id="taglist">
         {{- range $termName, $entries := .Site.Taxonomies.tags }}
         <li class="tag-meta"><a href="{{ "/tags/" | relLangURL }}{{ $termName | urlize }}">{{ $termName }}</a>

@@ -4,6 +4,7 @@ author: quiethacker
 date: 2021-12-29T18:55:00-06:00
 url: /2021-12-29-hellofriend
 type: post
+tags: ["intro", "misc"]
 ---
 
 Welcome to quiethacker.com!

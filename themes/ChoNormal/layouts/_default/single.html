@@ -2,11 +2,11 @@
   <section class="blog-content">
     <div class="title_line">
       <h1>{{ .Title }}</h1>
-      <p class="date"> {{ .Date.Format "2006年01月02日" }} </p>
+      <p class="date"> {{ .Date.Format "2006-01-02" }} </p>
     </div>
     <div class="tag_line">
       {{ with .Params.tags }}
-      <p>タグ：</p>
+      <p>Tags：</p>
       <ul id="tag_pickup">
         {{- range . -}}
         <li class="tags"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
